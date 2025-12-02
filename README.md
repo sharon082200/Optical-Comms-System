@@ -69,7 +69,7 @@ The system does not use standard UART. Instead, a custom **Bit-Banging** protoco
 
 ## 📄 Full Report
 For a deep dive into the theory, circuit analysis, and testing results, please refer to the full project report:
-[Download Project Report (PDF)](Report_Optic_comms.pdf)
+[Download Project Report (PDF)](ReportOpticcomms.pdf)
 
 ---
 
